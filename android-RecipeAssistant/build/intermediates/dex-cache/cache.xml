@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f5cf95cb74d361d81bf97daaabbc8f8cdfd37c43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_df3e2f36cfb912311c91ce737e09107b715df0d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_64ef64085aa36f795e3bd4be8160ccfeb2abc830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_e72ce8217080c41a518651c8a1a901b8a3abdef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_007ec14cfa906c1dbe97d7629af268d7d5166862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_ba3476df996273ec4d3358895e2720644ff6819d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_79b2d39b6a47292da08c1d078ca2dfec43bca6bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_266f417ff3ba8d923b0605e2b3b49ed95c2b7074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e8492b0e55a8508706227f26fb933358f5ef32ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_043fce16aa048e671bd315559add733ec74b8df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_c37756dc2617c4f9ce1fe88a8177afe770b12f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_e4009f0e77018cf7f45cc50c2bfeb77f10960a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5056d8d0a01d9ea644bfa20c0b2454244e352180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_940349188e8134deefb01e10d4cbd4ab3ea68cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a15332a4b03d32710acc5805f5a845ab18514910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_3be4750537b0680486e98ea1c6bf75616397cb74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69cad36f085d7c9fb517a68ccc1fb7933629d3ab">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b83b2aa9afd9488b46f3b73acb18e67f4c9e1413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f6a16fc6cd4a9f4149067f2cfc9c6a8588e3c961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_9ed7f544f8a7f97e22f80f69012fa3f0b9cc3341\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="107a5a24d7d34415a09dabc6a22b5b3ce2d126bd">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3f9a89e0d46c2f9543c5454bbf283d0811644d6b\classes.dex" />
+    </item>
+
+</items>
