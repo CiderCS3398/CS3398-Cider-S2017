@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="8161128164588"
+    token="2464715371670772272"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3577" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2955" />
+    <task
+        name="verifier"
+        duration="1377" />
+
+    <artifact
+        location="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="8161128164588"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Zack\Desktop\CS3398-Cider-S2017\CS3398-Cider-S2017\android-RecipeAssistant\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
