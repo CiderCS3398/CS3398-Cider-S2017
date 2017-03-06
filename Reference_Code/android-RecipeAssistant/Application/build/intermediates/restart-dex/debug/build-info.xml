@@ -5,32 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="89514133638426"
+    timestamp="107501424945619"
     token="2973043589734008741"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1041" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="670" />
     <task
         name="verifier"
-        duration="0" />
+        duration="42" />
+
+    <artifact
+        location="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="88740993067193"
+        timestamp="107501424945619"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="89514133638426"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
