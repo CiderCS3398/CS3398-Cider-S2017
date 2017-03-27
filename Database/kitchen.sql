@@ -15,6 +15,18 @@ TypeOf VARCHAR(25),
 FOREIGN KEY (FoNo) REFERENCES Food(FoNo)
 );
 
+create table Grains (
+FoNo NUMBER(5),
+TypeOf VARCHAR(25),
+FOREIGN KEY (FoNo) REFERENCES Food(FoNo)
+);
+
+create table Fruits (
+FoNo NUMBER(5),
+TypeOf VARCHAR(25),
+FOREIGN KEY (FoNo) REFERENCES Food(FoNo)
+);
+
 create table DrySeasonings (
 FoNo NUMBER(5),
 TypeOf VARCHAR(25),
