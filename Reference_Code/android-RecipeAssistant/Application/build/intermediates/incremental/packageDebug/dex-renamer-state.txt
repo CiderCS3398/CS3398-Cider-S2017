@@ -1,4 +1,4 @@
-#Mon Mar 06 16:48:03 CST 2017
+#Fri Mar 10 20:13:52 CST 2017
 base.0=/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a8820255a447e1e3ba2b338776c9f739ad1b15e
 renamed.1=classes.dex
 renamed.0=classes2.dex

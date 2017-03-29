@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e00ce26946b45ce67c24d7d8adb922a8cff74f00">
+        sha1="b554acd85cd77724eaf84b26df919ac289e2510a">
         <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a422fb1a1781a884807b774aa02eda08dabb06f/classes.dex" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3725a752d2fb6d30fc438c85c1546ffb4b03d072">
+        sha1="b5664a450e71b73fac3ed4e98d0feee3bb33b45f">
         <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a8820255a447e1e3ba2b338776c9f739ad1b15e/classes.dex" />
     </item>
     <item
