@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+        "outputFile": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\99a06612354c84636827653a2eaa530815eb35b3\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\99a06612354c84636827653a2eaa530815eb35b3\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\99a06612354c84636827653a2eaa530815eb35b3\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 896
                 },
                 "from": {
-                    "file": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\99a06612354c84636827653a2eaa530815eb35b3\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

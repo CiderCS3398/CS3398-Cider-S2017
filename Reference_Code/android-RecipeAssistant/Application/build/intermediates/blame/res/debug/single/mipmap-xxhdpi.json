@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_notification_recipe.png",
-        "source": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/res/mipmap-xxhdpi/ic_notification_recipe.png"
+        "merged": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_notification_recipe.png",
+        "source": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\src\\main\\res\\mipmap-xxhdpi\\ic_notification_recipe.png"
     },
     {
-        "merged": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_app_recipe.png",
-        "source": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/res/mipmap-xxhdpi/ic_app_recipe.png"
+        "merged": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_app_recipe.png",
+        "source": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\src\\main\\res\\mipmap-xxhdpi\\ic_app_recipe.png"
     }
 ]

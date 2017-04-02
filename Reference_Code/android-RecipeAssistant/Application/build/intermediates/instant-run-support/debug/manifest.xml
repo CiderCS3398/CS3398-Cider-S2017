@@ -22,7 +22,6 @@
         android:targetSdkVersion="23" />
 
     <application
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_app_recipe"
         android:label="@string/app_name"
@@ -42,6 +41,9 @@
         </activity>
 
         <service android:name="com.example.android.wearable.recipeassistant.RecipeService" />
+        <service
+            android:name="com.android.tools.fd.runtime.InstantRunService"
+            android:exported="true" />
     </application>
 
 </manifest>

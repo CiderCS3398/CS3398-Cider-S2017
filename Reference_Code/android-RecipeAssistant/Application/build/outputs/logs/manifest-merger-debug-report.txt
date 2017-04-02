@@ -1,77 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:17:1-44:12
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:17:1-44:12
 	package
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:18:5-59
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:18:5-59
 	xmlns:android
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:17:11-69
 uses-sdk
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:20:5-21:47
-MERGED from [com.android.support:support-v13:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:20:5-21:47
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Zack\.android\build-cache\8b3a63581b76ea3a21e2f1dd2fad1a2d05f12cd3\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Zack\.android\build-cache\9e19e42e774d47958f2d20f6315cd17f31efb1c5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Zack\.android\build-cache\99a06612354c84636827653a2eaa530815eb35b3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Zack\.android\build-cache\1ac51458b84ab77c4d5935b4784a343c1d531acc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Zack\.android\build-cache\b022e21c73dbda42603b508e3d232145e14c89ca\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Zack\.android\build-cache\996ef078414caf21b30d102cfa6b45f5a251caf0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Zack\.android\build-cache\35566f976c6db5d81c8259b79b1d28c57ddce380\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Zack\.android\build-cache\389748d5da89da5d98e9687c108307f8355f00df\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Zack\.android\build-cache\5fe6597a1451e3c5c01e350ed16eea4f134c040b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Zack\.android\build-cache\71afb4794e67aee492094bdbe9534be0a650dbdf\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Zack\.android\build-cache\74353192f4604bfdaf5454654fe20a40defcf0c0\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\Zack\.android\build-cache\8b3a63581b76ea3a21e2f1dd2fad1a2d05f12cd3\output\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:21:15-44
-		INJECTED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:21:15-44
+		INJECTED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:20:15-41
-		INJECTED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml
-		INJECTED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:20:15-41
+		INJECTED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml
 application
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:23:5-42:19
-MERGED from [com.android.support:support-v13:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:25:5-20
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:23:5-42:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\Zack\.android\build-cache\8b3a63581b76ea3a21e2f1dd2fad1a2d05f12cd3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Zack\.android\build-cache\9e19e42e774d47958f2d20f6315cd17f31efb1c5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Zack\.android\build-cache\99a06612354c84636827653a2eaa530815eb35b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Zack\.android\build-cache\1ac51458b84ab77c4d5935b4784a343c1d531acc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Zack\.android\build-cache\b022e21c73dbda42603b508e3d232145e14c89ca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Zack\.android\build-cache\996ef078414caf21b30d102cfa6b45f5a251caf0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Zack\.android\build-cache\35566f976c6db5d81c8259b79b1d28c57ddce380\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Zack\.android\build-cache\389748d5da89da5d98e9687c108307f8355f00df\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Zack\.android\build-cache\5fe6597a1451e3c5c01e350ed16eea4f134c040b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Zack\.android\build-cache\71afb4794e67aee492094bdbe9534be0a650dbdf\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Zack\.android\build-cache\74353192f4604bfdaf5454654fe20a40defcf0c0\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:26:9-41
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:26:9-41
 	android:allowBackup
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:25:9-45
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:25:9-45
 	android:theme
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:27:9-56
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:27:9-56
 activity#com.example.android.wearable.recipeassistant.MainActivity
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:28:9-35:20
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:28:9-35:20
 	android:label
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:30:13-45
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:30:13-45
 	android:name
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:29:13-41
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:29:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:31:13-34:29
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:31:13-34:29
 action#android.intent.action.MAIN
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:32:17-69
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:33:17-77
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:33:27-74
 activity#com.example.android.wearable.recipeassistant.RecipeActivity
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:36:9-39:20
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:36:9-39:20
 	android:label
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:38:13-45
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:38:13-45
 	android:name
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:37:13-43
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:37:13-43
 service#com.example.android.wearable.recipeassistant.RecipeService
-ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:40:9-41:45
+ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:40:9-41:45
 	android:name
-		ADDED from /Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/src/main/AndroidManifest.xml:41:13-42
+		ADDED from C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\src\main\AndroidManifest.xml:41:13-42

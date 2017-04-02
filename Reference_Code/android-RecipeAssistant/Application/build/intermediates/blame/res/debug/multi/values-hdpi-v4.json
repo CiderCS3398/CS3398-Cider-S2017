@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "C:\\Users\\Zack\\.android\\build-cache\\99a06612354c84636827653a2eaa530815eb35b3\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

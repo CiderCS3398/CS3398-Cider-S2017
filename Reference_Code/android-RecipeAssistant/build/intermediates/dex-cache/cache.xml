@@ -3,183 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5785d93eb41c51b3598369adf85908d3aea41869/classes.dex" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c3ab7a6650c5d931c8c35e8fec151bb2d8b4d930\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_7113e4453f57f96d70a5c7120dc6d3fc8b15aea1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7de4c59cae7fcf2675ab92d1cf3772a6fff5ca7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b554acd85cd77724eaf84b26df919ac289e2510a">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a422fb1a1781a884807b774aa02eda08dabb06f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_d3f1956a4b55bd45d5d77d0a93ede029d01e1ff4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e03d3f9b395e55eca78883e935cc339b16c4d6ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_5cbd081d950b4ea3eaca823be07a9babb3cad9df/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a6d18899b309217052b004143c6537bd45bd75fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_5cc28e29e870d176736db933e1e886a12d0b997e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_dc64390feefa2db30779439fa3620ea2f4c8d8fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fee61e64d93151322c4aa633ee7d661ad81e777c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_fbec17176c89a9297a20b25bb69b2e8eca712a30/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_1ed0e98b79489d49bbe2d1a6af9013621e6d7c9d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_6ad42ed22a56de55b5b824e0c0068bcf88e62bdf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b5664a450e71b73fac3ed4e98d0feee3bb33b45f">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a8820255a447e1e3ba2b338776c9f739ad1b15e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9b9bdec5628581bfc67ca087604090513fff6d6c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_9fb33ebcb534669b1d99c328b2c9ca00f896ca85/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_4d4f2757e7284b7041cfd48ad336ebb88ab6366e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d06f89d44a5d7211d95b69232b3aa247d322206e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_fa6e93d723fb9397917ee5d43e0fea6b13f7c991/classes.dex" />
+        sha1="86efc8b8d61ecebfde93369824f7ef9f8564631d">
+        <dex dex="C:\Users\Zack\Desktop\CS3398-Cider-S2017\Reference_Code\android-RecipeAssistant\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5534ad74dfb1113e13b6596ee8bf3fe90f910f60\classes.dex" />
     </item>
 
 </items>

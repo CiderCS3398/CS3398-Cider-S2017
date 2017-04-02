@@ -1,7 +1,7 @@
-#Fri Mar 10 20:13:52 CST 2017
-base.0=/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a8820255a447e1e3ba2b338776c9f739ad1b15e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a422fb1a1781a884807b774aa02eda08dabb06f/classes.dex
-base.1=/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a422fb1a1781a884807b774aa02eda08dabb06f
-file.0=/Users/sthomp/Documents/Github/CS3398-Cider-S2017/Reference_Code/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5a8820255a447e1e3ba2b338776c9f739ad1b15e/classes.dex
+#Sun Apr 02 15:35:35 CDT 2017
+base.0=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5534ad74dfb1113e13b6596ee8bf3fe90f910f60
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c3ab7a6650c5d931c8c35e8fec151bb2d8b4d930\\classes.dex
+base.1=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c3ab7a6650c5d931c8c35e8fec151bb2d8b4d930
+file.0=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5534ad74dfb1113e13b6596ee8bf3fe90f910f60\\classes.dex
