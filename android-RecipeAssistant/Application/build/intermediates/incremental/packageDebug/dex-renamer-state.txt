@@ -1,7 +1,0 @@
-#Sat Feb 25 14:44:46 CST 2017
-base.0=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\CS3398-Cider-S2017\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b83b2aa9afd9488b46f3b73acb18e67f4c9e1413
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\CS3398-Cider-S2017\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3f9a89e0d46c2f9543c5454bbf283d0811644d6b\\classes.dex
-base.1=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\CS3398-Cider-S2017\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3f9a89e0d46c2f9543c5454bbf283d0811644d6b
-file.0=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\CS3398-Cider-S2017\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b83b2aa9afd9488b46f3b73acb18e67f4c9e1413\\classes.dex
