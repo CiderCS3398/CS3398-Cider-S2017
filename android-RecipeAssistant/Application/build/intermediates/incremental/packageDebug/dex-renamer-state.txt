@@ -1,0 +1,7 @@
+#Mon Apr 03 10:50:38 CDT 2017
+base.0=/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b98d95520a43a235e99deb686b5a1cce852062d3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6664e4106fc1a668ce987556382a0d07d249a4d2/classes.dex
+base.1=/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6664e4106fc1a668ce987556382a0d07d249a4d2
+file.0=/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/android-RecipeAssistant/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b98d95520a43a235e99deb686b5a1cce852062d3/classes.dex

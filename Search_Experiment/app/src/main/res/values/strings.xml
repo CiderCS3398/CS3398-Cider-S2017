@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search_Experiment</string>
+    <string name="edit_message">Search Here</string>
+    <string name="button_search">Search</string>
+</resources>

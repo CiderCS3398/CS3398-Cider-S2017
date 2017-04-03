@@ -14,10 +14,12 @@
      limitations under the License.
 -->
 
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/action_cook"
         android:orderInCategory="100"
         android:showAsAction="always|withText"
         android:title="@string/action_cook" />
+    <menu />
 </menu>

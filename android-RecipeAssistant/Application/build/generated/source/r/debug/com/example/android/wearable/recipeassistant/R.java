@@ -1911,19 +1911,20 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int ic_noimage=0x7f020053;
-        public static final int notification_action_background=0x7f020054;
-        public static final int notification_bg=0x7f020055;
-        public static final int notification_bg_low=0x7f020056;
-        public static final int notification_bg_low_normal=0x7f020057;
-        public static final int notification_bg_low_pressed=0x7f020058;
-        public static final int notification_bg_normal=0x7f020059;
-        public static final int notification_bg_normal_pressed=0x7f02005a;
-        public static final int notification_icon_background=0x7f02005b;
-        public static final int notification_template_icon_bg=0x7f02005f;
-        public static final int notification_template_icon_low_bg=0x7f020060;
-        public static final int notification_tile_bg=0x7f02005c;
-        public static final int notify_panel_notification_icon_bg=0x7f02005d;
-        public static final int tile=0x7f02005e;
+        public static final int ic_search_black_24dp=0x7f020054;
+        public static final int notification_action_background=0x7f020055;
+        public static final int notification_bg=0x7f020056;
+        public static final int notification_bg_low=0x7f020057;
+        public static final int notification_bg_low_normal=0x7f020058;
+        public static final int notification_bg_low_pressed=0x7f020059;
+        public static final int notification_bg_normal=0x7f02005a;
+        public static final int notification_bg_normal_pressed=0x7f02005b;
+        public static final int notification_icon_background=0x7f02005c;
+        public static final int notification_template_icon_bg=0x7f020060;
+        public static final int notification_template_icon_low_bg=0x7f020061;
+        public static final int notification_tile_bg=0x7f02005d;
+        public static final int notify_panel_notification_icon_bg=0x7f02005e;
+        public static final int tile=0x7f02005f;
     }
     public static final class id {
         public static final int action0=0x7f0b005a;
@@ -1936,7 +1937,7 @@ containing a value of this type.
         public static final int action_bar_title=0x7f0b0024;
         public static final int action_container=0x7f0b0057;
         public static final int action_context_bar=0x7f0b0046;
-        public static final int action_cook=0x7f0b0077;
+        public static final int action_cook=0x7f0b0079;
         public static final int action_divider=0x7f0b005e;
         public static final int action_image=0x7f0b0058;
         public static final int action_menu_divider=0x7f0b0002;
@@ -1952,6 +1953,7 @@ containing a value of this type.
         public static final int always=0x7f0b001d;
         public static final int beginning=0x7f0b001a;
         public static final int bottom=0x7f0b0022;
+        public static final int button=0x7f0b0078;
         public static final int buttonPanel=0x7f0b002e;
         public static final int cancel_action=0x7f0b005b;
         public static final int checkbox=0x7f0b003c;
@@ -1980,6 +1982,7 @@ containing a value of this type.
         public static final int layoutSteps=0x7f0b0074;
         public static final int line1=0x7f0b0069;
         public static final int line3=0x7f0b006b;
+        public static final int linearLayout=0x7f0b0076;
         public static final int listMode=0x7f0b0009;
         public static final int list_item=0x7f0b002b;
         public static final int media_actions=0x7f0b005d;
@@ -2034,7 +2037,7 @@ containing a value of this type.
         public static final int text2=0x7f0b006a;
         public static final int textIngredients=0x7f0b0072;
         public static final int textSpacerNoButtons=0x7f0b0037;
-        public static final int textStep=0x7f0b0076;
+        public static final int textStep=0x7f0b0077;
         public static final int textSummary=0x7f0b0056;
         public static final int textTitle=0x7f0b0055;
         public static final int time=0x7f0b0062;
@@ -2145,12 +2148,14 @@ containing a value of this type.
         public static final int action_cook=0x7f060021;
         public static final int action_settings=0x7f060022;
         public static final int app_name=0x7f060023;
-        public static final int ingredients=0x7f060024;
-        public static final int intro_message=0x7f060025;
+        public static final int button_search=0x7f060024;
+        public static final int edit_search=0x7f060025;
+        public static final int ingredients=0x7f060026;
+        public static final int intro_message=0x7f060027;
         public static final int search_menu_title=0x7f060013;
         public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int step_count=0x7f060026;
-        public static final int steps=0x7f060027;
+        public static final int step_count=0x7f060028;
+        public static final int steps=0x7f060029;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f08009b;
