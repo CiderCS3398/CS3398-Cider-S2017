@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter the ID: "/>
+
+    <EditText
+        android:layout_margin="20dip"
+        android:layout_width="354dp"
+        android:layout_height="26dp"
+        android:minLines="15"
+        android:maxLines="15"
+        android:textSize="12sp"
+        android:id="@+id/idSearch"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="GET"
+        android:id="@+id/showButton"
+        android:onClick="getUserNameQuery"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="The name is: "
+        android:layout_weight="0.04" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/showName"
+        android:layout_weight="0.08" />
+
+</LinearLayout>
