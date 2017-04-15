@@ -25,18 +25,5 @@ cache:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
 
-env:
-  - SAMPLE=admob 
-  - SAMPLE=analytics 
-  - SAMPLE=app-indexing 
-  - SAMPLE=auth 
-  - SAMPLE=config 
-  - SAMPLE=crash 
-  - SAMPLE=database 
-  - SAMPLE=dynamiclinks 
-  - SAMPLE=invites 
-  - SAMPLE=messaging 
-  - SAMPLE=storage
-
-script:
-  - ./build.sh
+script: 
+  -./gradlew build
