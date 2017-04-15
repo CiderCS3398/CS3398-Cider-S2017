@@ -2,22 +2,112 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/73bd414c2d623677a19800b61502c1ae5da33b9d/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbc5a6893ec05de007ac7f1d8ba6f08483a09dc1/classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_6fbf5defe9f10d0eb7a4d8402910316f12f06af2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/9dbd60f6ca9d5c5a3e14430fdaca22c6091300af/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="198e0d82f913ddc6d32bb0f7c94e26c932a1a983">
-        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc5ec2849f6062d9463d785b8528ec592228764d/classes.dex" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_e40d56fcb4a1704759bd084d1afc7edd66e5fc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_97103a0f07414e3f71339cb9144511b147a58878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/6ee4bf96423e171e4775cc2a496774fefc4d38b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_af85188c60d027f509f1b4239ee101bb2809f061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3fc1c11cd88d3897437279974a88c0ea1f7d25d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/502a8d5b517ab43b7582d8b43997d76577d83a50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_f9f8772f83334c85317a36fe716ac3187644e191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/8a19c4834b13a6461874751a2fb3c6923a593d68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_22fb99909df448504c7b921283a135f0d0d631c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/0bdb42461d1a7b219b46fa27b5a2cb03787580dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_0d928c700371b7cadc1ff888e2194964772c0cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/e3ec1f89a8c4da5696d99fcaf7a0c5f85d5ce273/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_c5d69038728b96d0fc525a775643d040c94a8dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/cca7d94743fd6fdf95d9f3d4ae402588f00fe148/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_1db4a9961f5016311fcb2ada4fe35223d7acfea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/cdee21befedf9c24bd3de9dd2bd1e02a9f2f3876/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_4f22ab815deef173a40f981a7a91db30c15ffe54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/eebcf15c6445b2e9741333a66f4ff4fa524b55b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_db7c8ea73f04e2c9d4d73abf64328947b2cdc622.jar" />
     </item>
 
 </items>
