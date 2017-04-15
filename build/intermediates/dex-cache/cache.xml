@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bbc5a6893ec05de007ac7f1d8ba6f08483a09dc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="198e0d82f913ddc6d32bb0f7c94e26c932a1a983">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/Search_Function/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc5ec2849f6062d9463d785b8528ec592228764d/classes.dex" />
+    </item>
+
+</items>
