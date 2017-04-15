@@ -9,58 +9,6 @@
 # Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
 DEFAULT_JVM_OPTS=""
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-    ToDo 
-
-    @sylchristian
-
-1,346
-13,137
-
-    4,905
-
-google/iosched
-Code
-Issues 36
-Pull requests 18
-Boards
-Reports
-Projects 0
-iosched/gradlew
-ac2ec5c on Jul 31, 2013
-Roman Nurik Initial iosched 2013 snapshot
-executable file 165 lines (144 sloc) 4.96 KB
-#!/usr/bin/env bash
-
-##############################################################################
-##
-##  Gradle start up script for UN*X
-##
-##############################################################################
-
-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
-DEFAULT_JVM_OPTS=""
-
-APP_NAME="Gradle"
-APP_BASE_NAME=`basename "$0"`
-
-# Use the maximum available, or set MAX_FD != -1 to use that value.
-#!/usr/bin/env bash
-
-##############################################################################
-##
-##  Gradle start up script for UN*X
-##
-##############################################################################
-
-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
-DEFAULT_JVM_OPTS=""
-
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 
