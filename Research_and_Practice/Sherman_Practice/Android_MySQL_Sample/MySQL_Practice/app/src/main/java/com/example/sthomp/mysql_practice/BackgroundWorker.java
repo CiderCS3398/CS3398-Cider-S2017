@@ -30,7 +30,8 @@ public class BackgroundWorker extends AsyncTask<String, Void, String>{
     @Override
     protected String doInBackground(String... params) {
         String type = params[0];
-        String get_URL = "http://192.168.1.47/~sthomp/PHP_Scripts/getEmp.php";
+        //String get_URL = "http://192.168.1.47/~sthomp/PHP_Scripts/getEmp.php";
+        String get_URL = "http://cs.txstate.edu/~stt19/Kitchen_Helper_Scripts/getEmp.php";
         if(type.equals("getUsername")) {
             try {
                 String user_id = params[1];
