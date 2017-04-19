@@ -1,7 +1,7 @@
 # Cider
 
 ### Main Code
-[Java code.](CS3398-Cider-S2017/RecipeAssistant/app/src/main/java/com/example/recipeassistant/MainActivity.java)
+[Java code.](./RecipeAssistant/app/src/main/java/com/example/recipeassistant/LoginActivity.java)
 
 ### Database Files and Scripts
 [Database Files and Scripts README.](./Database/README.md)
