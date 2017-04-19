@@ -2,6 +2,7 @@ language: android
 android:
   components:
     - platform-tools
-    - tools
-    - extra
-script: ./gradlew build connectedCheck --stacktrace
+    - build-tools-25.0.2
+    - android-25
+    - sys-img-armeabi-v7a-android-25
+script: ./gradlew build connectedCheck
