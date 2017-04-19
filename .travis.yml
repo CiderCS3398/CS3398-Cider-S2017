@@ -4,4 +4,4 @@ android:
     - platform-tools
     - tools
     - extra
-script: ./gradlew build connectedCheck
+script: ./gradlew build connectedCheck --stacktrace
