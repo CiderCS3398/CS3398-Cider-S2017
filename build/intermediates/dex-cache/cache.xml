@@ -2,49 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/csylvester/.android/build-cache/e3c1ea0f09ecac4c4e210eef3313544a768dc774/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ad57eba06df05876990ad9ed4488ca76665436b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/csylvester/.android/build-cache/632a5203052eac68770ace7bbf4dbcc8176b3b2e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edc5bf21eae5a827be651fcdbfe7268e508bb60a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/csylvester/.android/build-cache/0ee89ff3fce559651eb99c51e352cb775aab0cb4/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52fd8e733712253180ebaee7fe35180ae89daf02/classes.dex" />
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_52fd8e733712253180ebaee7fe35180ae89daf02.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/632a5203052eac68770ace7bbf4dbcc8176b3b2e/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b4c12a127857924ecf4fa65bf6360d6da0b4a64a/classes.dex" />
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_edc5bf21eae5a827be651fcdbfe7268e508bb60a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/csylvester/.android/build-cache/e3c1ea0f09ecac4c4e210eef3313544a768dc774/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="92edfb919062e095e481f87c6819bf3fe4a5aeb6">
-        <dex dex="/home/csylvester/zackLogin/myTemporary/RecipeAssistant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ae04ab14a3df471aff686dec46a5d8416f11a80/classes.dex" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/csylvester/AndroidStudioProjects/CS3398-Cider-S2017/app/build/intermediates/pre-dexed/debug/classes_7ad57eba06df05876990ad9ed4488ca76665436b.jar" />
     </item>
 
 </items>
