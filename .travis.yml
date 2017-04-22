@@ -4,4 +4,6 @@ android:
     - platform-tools
     - build-tools-22.0.1
     - android-22
+jdk:
+  - oraclejdk8
 script: ./gradlew build connectedCheck
