@@ -4,4 +4,4 @@ android:
     - platform-tools
     - build-tools-22.0.1
     - android-22
-./gradlew build connectedCheck
+script: ./gradlew build connectedCheck
