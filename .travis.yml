@@ -12,5 +12,5 @@ android:
  licenses:
    - '.+'
 before_script:
- - chmod +x ./RecipeAssistant/gradlewscript:
+ - chmod +x gradlewscript:
  - ./RecipeAssistant/gradlew build
