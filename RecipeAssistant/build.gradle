@@ -12,8 +12,6 @@ buildscript {
     }
 }
 
-apply plugin: 'com.android.application'
-
 allprojects {
     repositories {
         jcenter()
