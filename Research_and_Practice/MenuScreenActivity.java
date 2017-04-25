@@ -25,7 +25,7 @@ public class MenuScreenActivity extends ListActivity
         //set up the button listener for listing recipes
         Button listRecipesButton = (Button) findViewById(R.id.trigger);
         listRecipesButton.setOnClickListener(new View.OnClickListener()
-        {
+                                             {
             // This allows us to launch an activity.
             // The appropriate Activity class will be called uing an
             // Intent object and then by running the startActivity method.
@@ -39,52 +39,5 @@ public class MenuScreenActivity extends ListActivity
                 finish();
             }
         });
-        
-        //set up the button listener for searching recipes
-        Button searchRecipesButton = (Button) findViewById(R.id.trigger);
-        searchRecipesButton.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(ListView lv, int position)
-            {
-                String itemName = mAdapter.getItemName(position);
-                Intent intent = new Intent(getApplicationContext(),
-                                           SearchRecipesActivity.class);
-                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
-                startActivity(intent);
-                finish();
-            }
-        });
-    
-        //set up the button listener for adding a recipe
-        Button addRecipeButton = (Button) findViewById(R.id.trigger);
-        addRecipeButton.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(ListView lv, int position)
-            {
-                String itemName = mAdapter.getItemName(position);
-                Intent intent = new Intent(getApplicationContext(),
-                                           AddRecipeActivity.class);
-                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
-                startActivity(intent);
-                finish();
-            }
-        });
-        
-        //set up the button listener for removing recipes
-        Button addRecipeButton = (Button) findViewById(R.id.trigger);
-        addRecipeButton.setOnClickListener(new View.OnClickListener()
-        {
-            public void onClick(ListView lv, int position)
-            {
-                String itemName = mAdapter.getItemName(position);
-                Intent intent = new Intent(getApplicationContext(),
-                                           RemoveRecipeActivity.class);
-                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
-                startActivity(intent);
-                finish();
-            }
-        });
-        
     }
 }
-
