@@ -434,6 +434,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                 //Thread.sleep(2000);
                 Log.d(TAG, "Testing logger... not working right now...");
                 getData();
+                Thread.sleep(3000);
             } catch (Exception e) {
                 return false;
             }
