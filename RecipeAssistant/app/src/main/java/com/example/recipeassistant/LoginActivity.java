@@ -361,7 +361,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                 String line = "";
                 InputStream inputStream = null;
                 try {
-                    String get_URL = "http://10.216.37.242/~sthomp/PHP_Scripts/login_local.php";
+                    String get_URL = "http://cs.txstate.edu/~stt19/Kitchen_Helper_Scripts/login.php";
                     URL url = new URL(get_URL);
                     HttpURLConnection httpURLConnection = (HttpURLConnection)url.openConnection();
                     httpURLConnection.setRequestMethod("POST");
