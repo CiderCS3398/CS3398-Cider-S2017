@@ -21,6 +21,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -30,9 +31,28 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.ListAdapter;
+import android.widget.SimpleAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.HashMap;
+
+import org.json.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONException;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLEncoder;
 
 import static android.Manifest.permission.READ_CONTACTS;
 
@@ -40,11 +60,12 @@ import static android.Manifest.permission.READ_CONTACTS;
  * A login screen that offers login via email/password.
  */
 public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<Cursor> {
-
+    private static final String TAG = "LoginActivity";
     /**
      * Id to identity READ_CONTACTS permission request.
      */
     private static final int REQUEST_READ_CONTACTS = 0;
+    String myJSON = "";
 
     /**
      * A dummy authentication store containing known user names and passwords.
@@ -63,6 +84,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private EditText mPasswordView;
     private View mProgressView;
     private View mLoginFormView;
+
+    String POSTemail = "";
+    String POSTpassword = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -157,6 +181,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         // Store values at the time of the login attempt.
         String email = mEmailView.getText().toString();
         String password = mPasswordView.getText().toString();
+        POSTemail = mEmailView.getText().toString();
+        POSTpassword = mPasswordView.getText().toString();
 
         boolean cancel = false;
         View focusView = null;
@@ -173,11 +199,11 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             mEmailView.setError(getString(R.string.error_field_required));
             focusView = mEmailView;
             cancel = true;
-        } else if (!isEmailValid(email)) {
+        } /*else if (!isEmailValid(email)) {
             mEmailView.setError(getString(R.string.error_invalid_email));
             focusView = mEmailView;
             cancel = true;
-        }
+        }*/
 
         if (cancel) {
             // There was an error; don't attempt login and focus the first
@@ -292,6 +318,99 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         int IS_PRIMARY = 1;
     }
 
+/*    protected void showList(){
+        try {
+            JSONObject jsonObj = new JSONObject(myJSON);
+            peoples = jsonObj.getJSONArray(TAG_RESULTS);
+
+            for(int i=0;i<peoples.length();i++){
+                JSONObject c = peoples.getJSONObject(i);
+                String id = c.getString(TAG_ID);
+                String name = c.getString(TAG_NAME);
+                String address = c.getString(TAG_ADD);
+
+                HashMap<String,String> persons = new HashMap<String,String>();
+
+                persons.put(TAG_ID,id);
+                persons.put(TAG_NAME,name);
+                persons.put(TAG_ADD,address);
+
+                personList.add(persons);
+            }
+
+            ListAdapter adapter = new SimpleAdapter(
+                    LoginActivity.this, personList, R.layout.list_item,
+                    new String[]{TAG_ID,TAG_NAME,TAG_ADD},
+                    new int[]{R.id.id, R.id.name, R.id.address}
+            );
+
+            list.setAdapter(adapter);
+
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
+    }*/
+
+    public void getData(){
+        class GetDataJSON extends AsyncTask<String, Void, String>{
+
+            @Override
+            protected String doInBackground(String... params) {
+                String result = "";
+                String line = "";
+                InputStream inputStream = null;
+                try {
+                    String get_URL = "http://10.216.37.242/~sthomp/PHP_Scripts/login_local.php";
+                    URL url = new URL(get_URL);
+                    HttpURLConnection httpURLConnection = (HttpURLConnection)url.openConnection();
+                    httpURLConnection.setRequestMethod("POST");
+                    httpURLConnection.setDoOutput(true);
+                    httpURLConnection.setDoInput(true);
+                    OutputStream outputStream = httpURLConnection.getOutputStream();
+                    BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(outputStream, "UTF-8"));
+                    String post_data = URLEncoder.encode("username", "UTF-8") + "="+URLEncoder.encode(POSTemail, "UTF-8")
+                            +"&"+ URLEncoder.encode("password", "UTF-8") + "="+URLEncoder.encode(POSTpassword, "UTF-8");
+                    bufferedWriter.write(post_data);
+                    bufferedWriter.flush();
+                    bufferedWriter.close();
+                    outputStream.close();
+                    inputStream = httpURLConnection.getInputStream();
+                    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"), 8);
+
+                    while ((line = bufferedReader.readLine()) != null)
+                    {
+                        //sb.append(line + "\n");
+                        result += line;
+                    }
+                    System.out.println(result);
+                    bufferedReader.close();
+                    inputStream.close();
+                    httpURLConnection.disconnect();
+                    //result = sb.toString();
+                    return result;
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                finally {
+                    try{if(inputStream != null)inputStream.close();
+                    } catch(Exception squish){
+                        System.out.println("inputStream was null");
+                    }
+                }
+                return "";
+            }
+
+            @Override
+            protected void onPostExecute(String result){
+                myJSON=result;
+                //showList();
+            }
+        }
+        GetDataJSON g = new GetDataJSON();
+        g.execute();
+    }
+
     /**
      * Represents an asynchronous login/registration task used to authenticate
      * the user.
@@ -312,17 +431,38 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
             try {
                 // Simulate network access.
-                Thread.sleep(2000);
-            } catch (InterruptedException e) {
+                //Thread.sleep(2000);
+                Log.d(TAG, "Testing logger... not working right now...");
+                getData();
+            } catch (Exception e) {
                 return false;
             }
+            JSONObject jObj = null;
+            String success = "0";
+            if(!myJSON.equals("") && myJSON != null)
+                success = Character.toString(myJSON.charAt(11));
 
-            for (String credential : DUMMY_CREDENTIALS) {
+            /*try {
+                String TAG_SUCCESS = "success";
+                jObj = new JSONObject(myJSON);
+                //success = jObj.getString(TAG_SUCCESS);
+                if(!myJSON.equals("") && myJSON != null)
+                    success = Character.toString(myJSON.charAt(11));
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }*/
+
+            /*for (String credential : DUMMY_CREDENTIALS) {
                 String[] pieces = credential.split(":");
                 if (pieces[0].equals(mEmail)) {
                     // Account exists, return true if the password matches.
                     return pieces[1].equals(mPassword);
                 }
+            }*/
+
+            if (success.equals("1")) {
+                // Account exists, return true if the password matches.
+                return true;
             }
 
             // TODO: register the new account here.
