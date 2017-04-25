@@ -352,5 +352,3 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     }
 }
 
-// adding comment to test .travis.yml
-
