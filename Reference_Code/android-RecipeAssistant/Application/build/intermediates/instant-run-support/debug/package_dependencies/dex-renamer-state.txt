@@ -1,4 +1,4 @@
-#Mon Apr 24 17:33:53 CDT 2017
+#Sun Apr 02 15:35:34 CDT 2017
 file.2=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7cf83efdbf55ac099dcecd065b5e98f41cd18cf6\\classes.dex
 base.2=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7cf83efdbf55ac099dcecd065b5e98f41cd18cf6
 file.1=C\:\\Users\\Zack\\Desktop\\CS3398-Cider-S2017\\Reference_Code\\android-RecipeAssistant\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-25.0.1_1198bdfcbb4a1fa3193735e3cd1936cf810df8d6\\classes.dex
