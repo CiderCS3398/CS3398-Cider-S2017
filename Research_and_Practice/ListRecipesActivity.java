@@ -1,4 +1,4 @@
-package com.example.android.wearable.ciderkitchenhelper;
+package com.example.android.wearable.materiallogindemo;
 
 import android.app.Activity;
 import android.app.PendingIntent;
@@ -16,7 +16,7 @@ import android.widget.TextView;
 
 import org.json.JSONObject;
 
-public class ListRecipesActivity extends activity
+public class ListRecipesActivity extends Activity
 {
   private static final String TAG = "CiderKitchenHelper";
   private String mRecipeName;
@@ -30,8 +30,8 @@ public class ListRecipesActivity extends activity
   {
     super.onStart();
     Intent intent = getIntent();
-    mRecipeName = intent.getStringExtra(Constants.RECIPE_NAME_TO_LOAD);
-    loadRecipe();
+    mRecipeName = "BBQ Pulled Pork"
+    displayRecipe();
   }
 
   @Override
@@ -52,21 +52,11 @@ public class ListRecipesActivity extends activity
     return true;
   }
 
-  private void loadRecipe()
-  {
-    JSONObject jsonObject = AssetUtils.loadJSONAsset(this, mRecipeName);
-    if (jsonObject != null) {
-      mRecipe = Recipe.fromJson(this, jsonObject);
-      if (mRecipe != null) {
-        displayRecipe(mRecipe);
-      }
-    }
-  }
-
   private void displayRecipe(Recipe recipe)
   {
     // set fade-in animation for a recipe name
-    Animation fadeIn = AnimationUtils.loadAnimation(this, android.R.anim.fade_in);
+    Animation fadeIn = AnimationUtils.loadAnimation(this,
+                                                    android.R.anim.fade_in);
 
     // set an animation to the title TextView
     mTitleTextView.setAnimation(fadeIn);
