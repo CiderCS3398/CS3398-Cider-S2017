@@ -10,10 +10,5 @@
 
     <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-        
-    <Button android:id="@+id/trigger"
-        android:layout_width="100dip" android:layout_height="100dip"
-        android:text="List Recipes" />
-
 
 </RelativeLayout>
