@@ -9,18 +9,18 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
 
-public class MenuScreenActivity extends ListActivity
+public class MainActivity extends ListActivity
 {
     private static final String APP_NAME = "CiderKitchenHelper";
-    private RecipeListAdapter mAdapter;
+    //private RecipeListAdapter mAdapter;
     
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
         setContentView(android.R.layout.custom_list_activity_view);
-        mAdapter = new RecipeListAdapter(this);
-        setListAdapter(mAdapter);
+        //mAdapter = new RecipeListAdapter(this);
+        //setListAdapter(mAdapter);
         
         //set up the button listener for listing recipes
         Button listRecipesButton = (Button) findViewById(R.id.trigger);
@@ -31,7 +31,7 @@ public class MenuScreenActivity extends ListActivity
             // Intent object and then by running the startActivity method.
             public void onClick(ListView lv, int position)
             {
-                String itemName = mAdapter.getItemName(position);
+                //String itemName = mAdapter.getItemName(position);
                 Intent intent = new Intent(getApplicationContext(),
                                            ListRecipesActivity.class);
                 intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
