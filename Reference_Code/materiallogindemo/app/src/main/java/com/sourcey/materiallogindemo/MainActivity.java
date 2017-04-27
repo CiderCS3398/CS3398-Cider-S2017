@@ -1,43 +1,94 @@
 package com.sourcey.materiallogindemo;
 
+import android.app.ListActivity;
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.view.View;
+import android.widget.ListView;
 
-
-public class MainActivity extends ActionBarActivity {
+public class MenuScreenActivity extends ListActivity
+{
+    private static final String APP_NAME = "CiderKitchenHelper";
+    private RecipeListAdapter mAdapter;
     
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(android.R.layout.custom_list_activity_view);
+        mAdapter = new RecipeListAdapter(this);
+        setListAdapter(mAdapter);
         
+        //set up the button listener for listing recipes
+        Button listRecipesButton = (Button) findViewById(R.id.trigger);
+        listRecipesButton.setOnClickListener(new View.OnClickListener()
+                                             {
+            // This allows us to launch an activity.
+            // The appropriate Activity class will be called uing an
+            // Intent object and then by running the startActivity method.
+            public void onClick(ListView lv, int position)
+            {
+                String itemName = mAdapter.getItemName(position);
+                Intent intent = new Intent(getApplicationContext(),
+                                           ListRecipesActivity.class);
+                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
+                startActivity(intent);
+                finish();
+            }
+        });
         
-        Intent intent = new Intent(this, LoginActivity.class);
-        startActivity(intent);
-    }
-    
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
-    
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
+        //set up the button listener for searching recipes
+        Button searchRecipesButton = (Button) findViewById(R.id.trigger);
+        searchRecipesButton.setOnClickListener(new View.OnClickListener()
+                                             {
+            // This allows us to launch an activity.
+            // The appropriate Activity class will be called uing an
+            // Intent object and then by running the startActivity method.
+            public void onClick(ListView lv, int position)
+            {
+                String itemName = mAdapter.getItemName(position);
+                Intent intent = new Intent(getApplicationContext(),
+                                           SearchRecipesActivity.class);
+                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
+                startActivity(intent);
+                finish();
+            }
+        });
         
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
+        //set up the button listener for adding a recipe
+        Button addRecipeButton = (Button) findViewById(R.id.trigger);
+        addRecipeButton.setOnClickListener(new View.OnClickListener()
+                                             {
+            // This allows us to launch an activity.
+            // The appropriate Activity class will be called uing an
+            // Intent object and then by running the startActivity method.
+            public void onClick(ListView lv, int position)
+            {
+                String itemName = mAdapter.getItemName(position);
+                Intent intent = new Intent(getApplicationContext(),
+                                           AddRecipeActivity.class);
+                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
+                startActivity(intent);
+                finish();
+            }
+        });
         
-        return super.onOptionsItemSelected(item);
+        //set up the button listener for listing recipes
+        Button removeRecipeButton = (Button) findViewById(R.id.trigger);
+        removeRecipeButton.setOnClickListener(new View.OnClickListener()
+                                             {
+            // This allows us to launch an activity.
+            // The appropriate Activity class will be called uing an
+            // Intent object and then by running the startActivity method.
+            public void onClick(ListView lv, int position)
+            {
+                String itemName = mAdapter.getItemName(position);
+                Intent intent = new Intent(getApplicationContext(),
+                                           RemoveRecipeActivity.class);
+                intent.putExtra(Constrants.RECIPE_NAME_TO_LOAD, itemName);
+                startActivity(intent);
+                finish();
+            }
+        });
     }
 }
